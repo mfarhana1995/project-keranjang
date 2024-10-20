@@ -1,0 +1,4 @@
+0 Coca-Cola Botol 250ml
+1 Coca-Cola Botol 390ml
+2 Fanta Stroberi Botol 250ml
+3 Fanta Stroberi Botol 390ml
